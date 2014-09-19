@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Layer 1</title>
+  <ellipse fill="#FF0000" stroke="#000000" stroke-width="5" cx="339" cy="238" id="svg_5" rx="159" ry="106"/>
+  <line fill="none" stroke="#000000" stroke-width="5" x1="251" y1="196" x2="315" y2="229" id="svg_6"/>
+  <line fill="none" stroke="#000000" stroke-width="5" x1="416" y1="219" x2="379" y2="255" id="svg_7"/>
+  <line fill="none" stroke="#000000" stroke-width="5" x1="324" y1="299" x2="394" y2="297" id="svg_10"/>
+  <line fill="none" stroke="#000000" stroke-width="5" x1="348" y1="252" x2="352" y2="269" id="svg_11"/>
+  <ellipse fill="none" stroke="#000000" stroke-width="5" cx="262" cy="214" id="svg_12" rx="16" ry="11"/>
+  <ellipse fill="none" stroke="#000000" stroke-width="5" cx="406" cy="253" id="svg_14" rx="20" ry="12"/>
+ </g>
+</svg>
