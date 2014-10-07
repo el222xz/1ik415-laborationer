@@ -1,3 +1,17 @@
+/* Layout */
+
+#header {
+    background-color: blue;
+}
+
+#content {
+    
+    background-color: blue;
+}
+
+
+
+
 p { color: #B9D;}
 a:link      { color: black; }
 a:link      { color: yellow; }
