@@ -1,0 +1,14 @@
+p { color: #B9D;}
+a:link      { color: black; }
+a:link      { color: yellow; }
+a:link      { color: green; }
+a:link      { color: orange; }
+a:link      { color: silver; }
+
+#box1 {
+    width: 200px;
+    height: 100px;
+    background: #97B48F;
+    
+    border-radius: 15px;
+}
