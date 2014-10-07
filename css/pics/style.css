@@ -6,8 +6,38 @@
 
 #content {
     
-    background-color: blue;
+    background-color: red;
+    margin-left: 150px;
+    width: 290px;
 }
+
+#navigation  {
+    border: 2px solid blue;
+    width: 150px;
+    float: left;
+}
+
+#container {
+    background:#CEE;
+    overflow:auto;
+    width:960px;
+}
+
+
+#infobox  {
+    background: lime;
+    width:200px;
+    
+}
+
+
+
+
+
+
+
+
+
 
 
 
